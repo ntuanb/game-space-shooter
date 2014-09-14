@@ -1,0 +1,9 @@
+v0_02 - 20140524
+-----
+- Added new weapons, sprites and upgrades
+- Updated frame size
+- Updated new points
+
+v0_01 - 20140501
+-----
+- Release
